@@ -21,8 +21,7 @@ This project is an AI-powered analytics gateway that integrates Qlik Sense dashb
 ### 1. Clone the Repository
 
 ```bash
-git clone
-cd 
+git clone https://github.com/SGCODEX/Qlik-Sense-and-Gemini-Hybrid-Gateway.git
 ```
 
 ### 2. Install Dependencies
